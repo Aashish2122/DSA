@@ -61,7 +61,7 @@ public class LeftRotation {
         for(int i = 0; i < arr.length; i++) {
             arr[i] = i+1;
         }
-        LeftRotation lr = new LeftRotation();
+        //LeftRotation lr = new LeftRotation();
         printArray(arr);
         //lr.rotateBruteForce(arr,3);
         //lr.rotateRecursively(arr, 3);
